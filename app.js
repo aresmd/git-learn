@@ -3,3 +3,4 @@ alert("hi men ..")
 
 // funcktion
  console.log("hi ..")
+ console.log("hi ..")
